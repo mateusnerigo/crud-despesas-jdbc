@@ -1,4 +1,4 @@
-package br.com.cruddespesasjdbc.model;
+package br.com.crudexpensesjdbc.model;
 
 public enum Category {
   FOOD,

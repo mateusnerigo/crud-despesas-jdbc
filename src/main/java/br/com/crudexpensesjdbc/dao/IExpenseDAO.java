@@ -1,10 +1,10 @@
-package br.com.cruddespesasjdbc.dao;
+package br.com.crudexpensesjdbc.dao;
 
 import java.util.List;
 import java.util.Optional;
 
-import br.com.cruddespesasjdbc.model.Category;
-import br.com.cruddespesasjdbc.model.Expense;
+import br.com.crudexpensesjdbc.model.Category;
+import br.com.crudexpensesjdbc.model.Expense;
 
 public interface IExpenseDAO {
   Expense save(Expense expense);
